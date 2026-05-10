@@ -5,6 +5,8 @@ elseif i == 9472441390 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XVCHub/Games/main/robit"))()
 elseif i == 6601115643 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/XVCHub/Games/main/prisonpump"))()
+elseif i == 2564505263 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XVCHub/Games/main/StrongmanSimulator"))()
 else
 print'vro please join supported game'
 end
